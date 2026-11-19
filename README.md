@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="" alt="Abdelghani Berbiche, Information Systems Master's student in Tébessa, Algeria, aspiring database administrator and cloud backend developer" width="100%">
+Abdelghani Berbiche, Information Systems Master's student in Tébessa, Algeria, aspiring database administrator and cloud backend developer
 
 <a href="https://www.linkedin.com/in/abdelghani-berbiche">LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/ghan.nou">Instagram</a>&nbsp;&nbsp;&nbsp;&nbsp;
