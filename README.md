@@ -1,39 +1,39 @@
-<div align="center">
+## Profile
 
-<img src="assets/header.svg" alt="Abdelghani Berbiche, Information Systems Master's student in Tébessa, Algeria, working toward a career in cloud computing and database administration" width="100%">
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=berbiche-abdelghani&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F152972863%3Fu%3Dd3c0256205781b4fea79a942b5924d881ac6d9b3%26v%3D4" alt="berbiche-abdelghani hero visual" />
+</p>
 
-</div>
+**BERBICHE ABDELGHANI** · Frontend or full-stack engineer
 
 ## About
 
-I'm a Master's student in Information Systems, building a foundation in cloud computing and databases and working toward a career as a database administrator (DBA).
+Building useful things and learning in public.
 
-- **Education:** Master's Degree in Information Systems, Echahid Cheikh Larbi Tebessi University (expected 2027)
-- **Earlier degree:** Bachelor's Degree (Licence) in Computer Science, ISIL: Information Systems and Software Engineering (2025)
-- **Leadership:** Vice President, LOGICA Scientific Club
-- **Languages:** Arabic (native), English (intermediate), French (basic)
+- 👥 **2** followers · **1** following
 
-## Skills
+## Stack
 
-| Area | Tools |
-| --- | --- |
-| Databases | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-intermediate-1B4B72?style=flat-square) |
-| Cloud | ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-basic-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
-| Programming | ![Python](https://img.shields.io/badge/Python-intermediate-3776AB?style=flat-square&logo=python&logoColor=white) |
-| Tools and systems | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-1B4B72?style=flat-square&logo=linux&logoColor=white) |
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-## Certifications and training
+## Signals
 
-- Huawei Seeds for the Future 2026 Programme
-- CS50P: Introduction to Programming with Python (edX)
-- Overview of AI
-- 5G Basics: What It's All About
-- Digital Power
-- General Knowledge of Cloud Computing
+<table>
+<tr><td align="center"><b>2</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>8</b><br/><sub>contributions</sub></td></tr>
+</table>
+
+## Projects
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=berbiche-abdelghani&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F152972863%3Fu%3Dd3c0256205781b4fea79a942b5924d881ac6d9b3%26v%3D4" alt="berbiche-abdelghani projects visual" />
+</p>
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdelghani--berbiche-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelghani-berbiche)
-[![Email](https://img.shields.io/badge/Email-abdelghani.berbiche.1%40gmail.com-1B4B72?style=flat-square&logo=gmail&logoColor=white)](mailto:abdelghani.berbiche.1@gmail.com)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=berbiche-abdelghani&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F152972863%3Fu%3Dd3c0256205781b4fea79a942b5924d881ac6d9b3%26v%3D4" alt="berbiche-abdelghani social visual" />
+</p>
 
-<img src="assets/footer.svg" alt="" width="100%">
+<a href="https://github.com/berbiche-abdelghani">GitHub</a>
+
+<p align="center"><sub>BERBICHE ABDELGHANI · <a href="https://www.gitskins.com/readme-generator?template=community-mani-developer-portfolio-pz5g">Mani Developer Portfolio</a> template by <a href="https://www.gitskins.com/creators/tylerderdan1">@tylerderdan1</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
