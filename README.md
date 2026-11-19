@@ -4,11 +4,11 @@
   <img src="https://www.gitskins.com/api/section/hero?username=berbiche-abdelghani&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F152972863%3Fu%3Dd3c0256205781b4fea79a942b5924d881ac6d9b3%26v%3D4" alt="berbiche-abdelghani hero visual" />
 </p>
 
-**BERBICHE ABDELGHANI** · Frontend or full-stack engineer
+**BERBICHE ABDELGHANI** · 
 
 ## About
 
-Building useful things and learning in public.
+Aiming to be a DBA and BACKEND developer in Cloud
 
 - 👥 **2** followers · **1** following
 
@@ -34,6 +34,8 @@ Building useful things and learning in public.
   <img src="https://www.gitskins.com/api/section/social?username=berbiche-abdelghani&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F152972863%3Fu%3Dd3c0256205781b4fea79a942b5924d881ac6d9b3%26v%3D4" alt="berbiche-abdelghani social visual" />
 </p>
 
-<a href="https://github.com/berbiche-abdelghani">GitHub</a>
+<a href="https://www.linkedin.com/in/abdelghani-berbiche">LinkedIn</a>
+<a href="https://www.instagram.com/ghan.nou">Instagram</a>
+<a href="https://www.t.me/ghan_nou">Telegram</a>
 
 <p align="center"><sub>BERBICHE ABDELGHANI · <a href="https://www.gitskins.com/readme-generator?template=community-mani-developer-portfolio-pz5g">Mani Developer Portfolio</a> template by <a href="https://www.gitskins.com/creators/tylerderdan1">@tylerderdan1</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
